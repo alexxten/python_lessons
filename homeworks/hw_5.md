@@ -13,8 +13,8 @@
 **Задание 3**<br>
 https://pythontutor.ru/lessons/for_loop/<br>
 Выполнять можно либо на самом сайте, либо просто брать условие и делать в pycharm, как удобнее. На гит выложить в любом случае.<br>
-Задания: 
-3.1. https://pythontutor.ru/lessons/for_loop/problems/series_2/
-3.2. https://pythontutor.ru/lessons/for_loop/problems/series_3/
-3.3. https://pythontutor.ru/lessons/for_loop/problems/sum_of_cubes/
-3.4. https://pythontutor.ru/lessons/for_loop/problems/how_many_zeroes/
+Задания: <br>
+3.1. https://pythontutor.ru/lessons/for_loop/problems/series_2/<br>
+3.2. https://pythontutor.ru/lessons/for_loop/problems/series_3/<br>
+3.3. https://pythontutor.ru/lessons/for_loop/problems/sum_of_cubes/<br>
+3.4. https://pythontutor.ru/lessons/for_loop/problems/how_many_zeroes/<br>
