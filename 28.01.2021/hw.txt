@@ -1,0 +1,3 @@
+1. Ссылка на пост про REST - https://habr.com/ru/post/483202/
+2. Ссылка на postman, если понадобится - https://www.postman.com
+3. Дока библиотеки requests - https://requests.readthedocs.io/en/master/user/quickstart/
