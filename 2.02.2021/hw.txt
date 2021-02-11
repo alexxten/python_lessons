@@ -10,4 +10,6 @@
 
 * доменная зона - .com, .ru и тд
 
-3. В интернете найти таблицн (пример - http://pesik-kotik.ru/102-sravnitelnaya-tablica-harakteristiki-sobak.html). Распарсить таблицу с помощью BeautifulSoup, занести данные в датафрейм (библиотека pandas). Датафрейм записать в excel и csv (использовать python, не руками).
+3. В интернете найти таблицу (пример - http://pesik-kotik.ru/102-sravnitelnaya-tablica-harakteristiki-sobak.html). 
+Распарсить таблицу с помощью BeautifulSoup, занести данные в датафрейм (библиотека pandas). 
+Датафрейм записать в excel и csv (использовать python, не руками).
